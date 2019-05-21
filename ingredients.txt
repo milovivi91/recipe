@@ -1,6 +1,6 @@
-.5.5.5.5.5p cilantro
+.5 cilantro
 1/2 onion
-add avocado
+no avocado
 0 salt
 mayo
 1111111
